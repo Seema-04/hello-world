@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi everyone!
+
+Seema here, I'm a college student.
